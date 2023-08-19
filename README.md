@@ -10,10 +10,10 @@ The GitHub Finder Android Application is a tool that allows users to search for 
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot_1.png)
+![Screenshot 1](app/src/main/resources/snapshot/33.png)
 *Description of screenshot 1.*
 
-![Screenshot 2](link_to_screenshot_2.png)
+![Screenshot 2](app/src/main/resources/snapshot/66.png)
 *Description of screenshot 2.*
 
 ## Installation
